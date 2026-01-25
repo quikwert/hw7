@@ -59,7 +59,7 @@ java -cp "bin:lib/*" org.junit.runner.JUnitCore PuzzleTest
 
 ## 📋 Task Description
 
-rite a Java program to solve word puzzles where you have to guess which digit corresponds to which letter to make a given equality valid. Each letter must correspond to a different decimal digit, and leading zeros are not allowed in the numbers.
+Write a Java program to solve word puzzles where you have to guess which digit corresponds to which letter to make a given equality valid. Each letter must correspond to a different decimal digit, and leading zeros are not allowed in the numbers.
 
 For example, the puzzle SEND+MORE=MONEY has exactly one solution: S=9, E=5, N=6, D=7, M=1, O=0, R=8, Y=2, giving 9567+1085=10652.
 
