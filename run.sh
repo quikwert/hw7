@@ -1,1 +1,3 @@
-java -cp bin Puzzle
+#!/bin/bash
+java -cp bin Puzzle "$@"
+
